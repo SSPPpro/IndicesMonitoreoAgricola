@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ArcGIS%20Pro-3.0%2B-blue.svg" alt="ArcGIS Pro Version">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
 ---
