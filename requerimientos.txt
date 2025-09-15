@@ -1,0 +1,3 @@
+
+# Este proyecto utiliza ArcPy, que es parte de la instalación de ArcGIS Pro.
+# Se requiere un nivel de licenciamiento que permita usar los geoprocesos del modulo de Image Analyst del entorno de ArcGIS Pro.
